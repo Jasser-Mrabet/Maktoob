@@ -37,7 +37,7 @@ Follow these instructions to set up and run the Maktoob project.
 1.  **Clone the repository (or create the project structure manually):**
 
     ```bash
-    git clone https://github.com/your-username/Maktoob.git
+    git clone https://github.com/Jasser-Mrabet/Maktoob.git
     cd Maktoob
     ```
 
